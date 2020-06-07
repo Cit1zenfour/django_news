@@ -1,1 +1,1 @@
-web: gunicorn django_news.wsgi --log-file -
+web: gunicorn forLearn.wsgi
